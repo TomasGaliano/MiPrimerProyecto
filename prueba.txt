@@ -1,6 +1,4 @@
 hola 
 archivo de prueba
 adios
-holaa
-casa
-
+holadenuevo
