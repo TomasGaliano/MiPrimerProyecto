@@ -1,4 +1,8 @@
 hola 
 archivo de prueba
 adios
+<<<<<<< HEAD
 holacomoestas
+=======
+hola
+>>>>>>> 80dfc6b5988c47fbd7d62dc004b7e1556fadf279
